@@ -16,3 +16,12 @@ and conditional statements.
 This project Feautures involves basic
 banking operations  user   perform such  as deposits, withdrawals,
 checking balances, and exiting the program.
+
+ Task: 3 Travel Itinerary Planner
+
+a travel itinerary planner that allows users to
+input destinations, dates, and preferences to generate
+a detailed travel plan. Include features like maps,
+weather information, and budget calculations.
+
+
